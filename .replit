@@ -1,1 +1,1 @@
-run = "python3 MiniC.py"
+run = "pip3 install ply; python3 MiniC.py"
