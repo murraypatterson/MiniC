@@ -1,2 +1,5 @@
 language = "python3"
 run = "pip3 install ply; python3 MiniC.py"
+
+[packager]
+language = "python3"
