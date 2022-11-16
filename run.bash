@@ -1,4 +1,4 @@
 #!/bin/bash
 
-pip3 install ply
+python3 -m pip install ply
 python3 MiniC.py
